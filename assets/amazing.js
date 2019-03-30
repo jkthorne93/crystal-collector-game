@@ -83,10 +83,6 @@ $(document).ready(function () {
     randomNumGenerator();
     playerNum = 0;
   }
-function (){
-
-
-}
 
 
 
